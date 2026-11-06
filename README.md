@@ -9,12 +9,21 @@
 
 ---
 
+### 🚀 Day to day
+
+| Area | What that means |
+|---|---|
+| **Payments** | Taking card payments end to end: 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks |
+| **Real-time & social** | Direct messages over WebSockets, push notifications, follower feeds and multi-language content |
+| **Platform** | Python microservices backed by DynamoDB, SQS and PostgreSQL, wired together through Kafka events |
+| **Reliability** | Tracing with OpenTelemetry, idempotent handlers, and CI checks that keep coverage honest |
+
 ### 🧰 Tech stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
 ### 🧠 Interests
@@ -25,12 +34,8 @@
 ### 📊 GitHub stats
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Somes-h&show_icons=true&hide_border=true&count_private=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somes-h&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Somes-h&layout=compact&hide_border=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somes-h&layout=compact&hide_border=true" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Somes-h&hide_border=true&theme=github-dark-blue">
+    <img src="https://streak-stats.demolab.com?user=Somes-h&hide_border=true" alt="GitHub contribution streak">
   </picture>
 </p>
 
