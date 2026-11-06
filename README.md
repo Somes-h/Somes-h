@@ -37,12 +37,10 @@
 
 ## Toolbox
 
-<table>
-  <tr><td><b>Language</b></td><td><code>Python</code> · <code>SQLAlchemy</code></td></tr>
-  <tr><td><b>AWS</b></td><td><code>Lambda</code> · <code>API Gateway</code> · <code>Cognito</code> · <code>SQS</code></td></tr>
-  <tr><td><b>Data</b></td><td><code>DynamoDB</code> · <code>PostgreSQL</code></td></tr>
-  <tr><td><b>Workflow</b></td><td><code>Git</code> · <code>GitHub</code></td></tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img src="assets/toolbox-light.svg" width="100%" alt="Toolbox. Language: Python, SQLAlchemy. AWS: Lambda, API Gateway, Cognito, SQS. Data: DynamoDB, PostgreSQL. Workflow: Git, GitHub.">
+</picture>
 
 ## Into
 
