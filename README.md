@@ -8,32 +8,12 @@
   <a href="https://www.linkedin.com/in/somesh-garemane"><b>LinkedIn ↗</b></a>
 </p>
 
-## Now
+## Working on
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎁 Referrals & growth</h4>
-      Built the referral tracker: a ledger of referrals and reward bonuses with expiry, filterable history, referee search and push nudges, rolled out behind feature flags.
-    </td>
-    <td width="50%" valign="top">
-      <h4>💬 Real-time & social</h4>
-      Direct messages over WebSockets, push notifications, follower feeds and multi-language content.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 Identity & sign-in</h4>
-      One-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking.
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ Platform</h4>
-      Serverless Python microservices on AWS: API Gateway and Lambda, Cognito for user auth, DynamoDB for storage and SQS for async work.
-    </td>
-  </tr>
-</table>
-
-**Previously:** card payments end to end, including 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/working-on-dark.svg">
+  <img src="assets/working-on-light.svg" width="100%" alt="Working on. Referrals and growth: built the referral tracker, a ledger of referrals and reward bonuses with expiry, filterable history, referee search and push nudges, rolled out behind feature flags. Real-time and social: direct messages over WebSockets, push notifications, follower feeds and multi-language content. Identity and sign-in: one-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking. Platform: serverless Python microservices on AWS with API Gateway, Lambda, Cognito, DynamoDB and SQS. Previously, payments: card payments end to end, including 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks.">
+</picture>
 
 ## Toolbox
 
