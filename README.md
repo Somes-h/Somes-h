@@ -12,7 +12,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/working-on-dark.svg">
-  <img src="assets/working-on-light.svg" width="100%" alt="Working on. Referrals and growth: built the referral tracker, a ledger of referrals and reward bonuses with expiry, filterable history, referee search and push nudges, rolled out behind feature flags. Real-time and social: direct messages over WebSockets, push notifications, follower feeds and multi-language content. Identity and sign-in: one-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking. Platform: serverless Python microservices on AWS with API Gateway, Lambda, Cognito, DynamoDB and SQS. Previously, payments: card payments end to end, including 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks.">
+  <img src="assets/working-on-light.svg" width="100%" alt="Somesh as an API request: GET /features-team/engineers/somesh passes through API Gateway (Cognito auth, feature flags, rate limiting, Lambda routing) to referrals-service (referral tracker: reward ledger, bonus expiry, history, push nudges), social-service (WebSocket DMs, push notifications, follower feeds, localized copy) and identity-service (Google, Facebook and Apple sign-in with OAuth token verification), backed by DynamoDB and SQS. Previously payments-service (3DS, tokenised cards, payouts, chargebacks, webhooks). Response: 200 OK, engineer Somesh Garemane, team features, focus referrals.">
 </picture>
 
 ## Toolbox
