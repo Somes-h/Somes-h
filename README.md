@@ -16,7 +16,7 @@
 | **Referrals & growth** | Built the referral tracker: a ledger of referrals and reward bonuses with expiry, filterable history, referee search and push nudges, rolled out behind feature flags |
 | **Real-time & social** | Direct messages over WebSockets, push notifications, follower feeds and multi-language content |
 | **Identity & sign-in** | One-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking |
-| **Platform** | Python microservices backed by DynamoDB, SQS and PostgreSQL, wired together through Kafka events |
+| **Platform** | Serverless Python microservices on AWS: API Gateway and Lambda, Cognito for user auth, DynamoDB for storage and SQS for async work |
 | **Payments** *(previously)* | Card payments end to end: 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks |
 
 ### 🧰 Tech stack
