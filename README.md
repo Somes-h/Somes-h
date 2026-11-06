@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Somesh 👋</h1>
 <p align="center">
-  Backend engineer building payments, real-time messaging and social features for sports betting platforms.
+  Backend engineer on the Features team, building growth, social and engagement features for sports betting platforms.
 </p>
 
 <p align="center">
@@ -13,10 +13,11 @@
 
 | Area | What that means |
 |---|---|
-| **Payments** | Taking card payments end to end: 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks |
+| **Referrals & growth** | Built the referral tracker: a ledger of referrals and reward bonuses with expiry, filterable history, referee search and push nudges, rolled out behind feature flags |
 | **Real-time & social** | Direct messages over WebSockets, push notifications, follower feeds and multi-language content |
-| **Platform** | Python microservices backed by DynamoDB, SQS and PostgreSQL, wired together through Kafka events |
 | **Identity & sign-in** | One-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking |
+| **Platform** | Python microservices backed by DynamoDB, SQS and PostgreSQL, wired together through Kafka events |
+| **Payments** *(previously)* | Card payments end to end: 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks |
 
 ### 🧰 Tech stack
 <p>
