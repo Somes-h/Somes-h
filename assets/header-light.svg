@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Somesh Garemane, Backend Engineer, Features Team">
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="#f8fafc"/>
+  <rect width="1000" height="260" rx="18" fill="url(#g)"/>
+  <text x="56" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#0369a1">~/somesh $ whoami</text>
+  <text x="56" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#0f172a">Somesh Garemane</text>
+  <text x="56" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#475569">Backend Engineer · Features Team</text>
+  <text x="56" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">python · aws serverless · dynamodb</text>
+  <path d="M790,130 L655,62" stroke="#bfdbfe" stroke-width="2" fill="none"/><path d="M790,130 L925,62" stroke="#bfdbfe" stroke-width="2" fill="none"/><path d="M790,130 L655,198" stroke="#bfdbfe" stroke-width="2" fill="none"/><path d="M790,130 L925,198" stroke="#bfdbfe" stroke-width="2" fill="none"/>
+  <circle r="3.5" opacity="0" fill="#0284c7"><animateMotion dur="2.8s" begin="0.0s" repeatCount="indefinite" path="M790,130 L655,62"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle><circle r="3.5" opacity="0" fill="#0284c7"><animateMotion dur="2.8s" begin="0.7s" repeatCount="indefinite" path="M790,130 L925,62"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></circle><circle r="3.5" opacity="0" fill="#0284c7"><animateMotion dur="2.8s" begin="1.4s" repeatCount="indefinite" path="M790,130 L655,198"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle><circle r="3.5" opacity="0" fill="#0284c7"><animateMotion dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite" path="M790,130 L925,198"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle>
+  <circle cx="790" cy="130" r="30" fill="#0284c7"/>
+  <circle cx="790" cy="130" r="30" fill="none" stroke="#0284c7" stroke-width="2">
+    <animate attributeName="r" values="30;44" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="790" y="135" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#ffffff">API</text>
+  <rect x="607.3" y="45" width="95.4" height="34" rx="17" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/><text x="655" y="67" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#334155">Referrals</text><rect x="890.2" y="45" width="69.6" height="34" rx="17" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/><text x="925" y="67" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#334155">Social</text><rect x="611.6" y="181" width="86.8" height="34" rx="17" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/><text x="655" y="203" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#334155">Identity</text><rect x="881.6" y="181" width="86.8" height="34" rx="17" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/><text x="925" y="203" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#334155">Platform</text>
+</svg>
