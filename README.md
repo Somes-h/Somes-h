@@ -16,7 +16,7 @@
 | **Payments** | Taking card payments end to end: 3DS challenges, tokenised card storage, payouts, chargebacks and provider webhooks |
 | **Real-time & social** | Direct messages over WebSockets, push notifications, follower feeds and multi-language content |
 | **Platform** | Python microservices backed by DynamoDB, SQS and PostgreSQL, wired together through Kafka events |
-| **Reliability** | Tracing with OpenTelemetry, idempotent handlers, and CI checks that keep coverage honest |
+| **Identity & sign-in** | One-tap sign-up and login with Google, Facebook and Apple, with OAuth token verification and account linking |
 
 ### 🧰 Tech stack
 <p>
