@@ -21,8 +21,6 @@
 - 🌐 Distributed systems and event-driven architecture
 - 🏗️ System design and scalable backend APIs
 - 💳 Fintech and payment systems
-- 🔭 Observability and reliability engineering
-- 🤖 AI-assisted developer tooling
 
 ### 📊 GitHub stats
 <p>
